@@ -7,13 +7,13 @@
 
 Week8_Core_IP 
 
-#Authors
+Authors  
 
 
 ValentineKarimi
 
 
-#Project setup instructions
+Project setup instructions
 
 
 To start using this project use the following commands:
